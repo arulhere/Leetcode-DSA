@@ -4,13 +4,11 @@ My journey of learning Data Structures & Algorithms with Java through consistent
 
 ## Progress
 
-Total Problems Solved: 4
+**Total Problems Solved: 4**
 
----------------------------------------------------------------------
 | Day | Date | Problems Solved | Main Topics |
----------------------------------------------------------------------
+|:---:|:---:|:---:|---|
 | 1 | Sep 4, 2026 | 4 | Arrays • 2D Arrays • Digits • Max/Comparison |
-
 
 ---
 
