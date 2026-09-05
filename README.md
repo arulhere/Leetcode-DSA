@@ -4,11 +4,12 @@ My journey of learning Data Structures & Algorithms with Java through consistent
 
 ## Progress
 
-**Total Problems Solved: 4**
+**Total Problems Solved: 6**
 
 | Day | Date | Problems Solved | Main Topics |
 |:---:|:---:|:---:|---|
 | 1 | Sep 4, 2026 | 4 | Arrays • 2D Arrays • Digits • Max/Comparison |
+| 2 | Sep 5, 2026 | 2 | Arrays • Permutation • Concatenation |
 
 ---
 
@@ -20,3 +21,12 @@ My journey of learning Data Structures & Algorithms with Java through consistent
 | 1672 | Richest Customer Wealth | 2D Array |
 | 1295 | Find Numbers with Even Number of Digits | Digits |
 | 1431 | Kids With the Greatest Number of Candies | Array • Comparison |
+
+---
+
+## 🧩 Day 2 — Problems
+
+| # | Problem | Topic |
+|:---:|---|---|
+| 1920 | Build Array from Permutation | Array • Permutation |
+| 1929 | Concatenation of Array | Array • Concatenation |
