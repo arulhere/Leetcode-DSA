@@ -4,12 +4,13 @@ My journey of learning Data Structures & Algorithms with Java through consistent
 
 ## Progress
 
-**Total Problems Solved: 6**
+**Total Problems Solved: 8**
 
 | Day | Date | Problems Solved | Main Topics |
 |:---:|:---:|:---:|---|
 | 1 | Sep 4, 2026 | 4 | Arrays • 2D Arrays • Digits • Max/Comparison |
 | 2 | Sep 5, 2026 | 2 | Arrays • Permutation • Concatenation |
+| 3 | Sep 6, 2026 | 2 | Arrays • Two Pointers |
 
 ---
 
@@ -30,3 +31,12 @@ My journey of learning Data Structures & Algorithms with Java through consistent
 |:---:|---|---|
 | 1920 | Build Array from Permutation | Array • Permutation |
 | 1929 | Concatenation of Array | Array • Concatenation |
+
+---
+
+## 🧩 Day 3 — Problems
+
+| # | Problem | Topic |
+|:---:|---|---|
+| 283 | Move Zeroes | Array • Two Pointers |
+| 27 | Remove Element | Array • Two Pointers |
